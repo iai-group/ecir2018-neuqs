@@ -20,7 +20,8 @@ $ python eval.py 20  #P@20
 ```
 
 ## Crowdsourcing experiments
-We seek to measure the quality of question suggestions for task-based search.
+We seek to measure the quality of question suggestions for task-based search. Please see details below.
+![Experiment Layout](https://github.com/iai-group/ecir2018-neuqs/blob/master/images/exp_layout.png)
 
 ## Contact
 If you have any question, please contact Heng Ding at heng.ding@whu.edu.cn
