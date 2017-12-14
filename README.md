@@ -19,5 +19,8 @@ $ python eval.py 10  #P@10
 $ python eval.py 20  #P@20
 ```
 
+## Crowdsourcing experiments
+We seek to measure the quality of question suggestions for task-based search.
+
 ## Contact
 If you have any question, please contact Heng Ding at heng.ding@whu.edu.cn
