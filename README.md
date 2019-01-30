@@ -2,9 +2,16 @@
 
 This repository provides resources developed within the following paper:
 
-> H. Ding, S. Zhang, D. Garigliotti, and K. Balog. Generating High-Quality Query Suggestion Candidates for Task-Based Search, In ECIR'18, March 2018.
+> H. Ding, S. Zhang, D. Garigliotti, and K. Balog. Generating High-Quality Query Suggestion Candidates for Task-Based Search. In: Advances in Information Retrieval - Proceedings of the 40th European Conference on IR Research (ECIR'18), Grenoble, France. March 2018. [DOI: 10.1007/978-3-319-76941-7_54](https://link.springer.com/chapter/10.1007/978-3-319-76941-7_54)
 
-These resources allow to reproduce the results presented in the Task-based Query Suggestion paper.
+**You can get the author version of the article [here](https://arxiv.org/abs/1802.07997).**
+
+### Abstract
+
+> *We address the task of generating query suggestions for task-based search. The current state of the art relies heavily on suggestions provided by a major search engine. In this paper, we solve the task without reliance on search engines. Specifically, we focus on the first step of a two-stage pipeline approach, which is dedicated to the generation of query suggestion candidates. We present three methods for generating candidate suggestions and apply them on multiple information sources. Using a purpose-built test collection, we find that these methods are able to generate high-quality suggestion candidates.* 
+
+
+### Structure
 
 This repository is structured as follows:
 
@@ -40,11 +47,11 @@ If you use the resources presented in this repository, please cite:
    and Garigliotti, Dar{\'i}o
    and Balog, Krisztian},
  title =      {Generating High-Quality Query Suggestion Candidates for Task-Based Search},
- booktitle =  {Advances in Information Retrieval - Proceedings of the 40th European Conference on IR Research, ECIR 2018},
+ booktitle =  {Advances in Information Retrieval - Proceedings of the 40th European Conference on IR Research},
+ series =     {ECIR '18},
  year =       {2018},
  pages =      {625--631},
  publisher =  {Springer},
- abstract =   {We address the task of generating query suggestions for task-based search. The current state of the art relies heavily on suggestions provided by a major search engine. In this paper, we solve the task without reliance on search engines. Specifically, we focus on the first step of a two-stage pipeline approach, which is dedicated to the generation of query suggestion candidates. We present three methods for generating candidate suggestions and apply them on multiple information sources. Using a purpose-built test collection, we find that these methods are able to generate high-quality suggestion candidates.},
  doi =        {10.1007/978-3-319-76941-7_54},
 }
 ```
@@ -52,4 +59,4 @@ If you use the resources presented in this repository, please cite:
 
 ## Contact
 
-Should you have any question, please contact Heng Ding at heng.ding[AT]whu.edu.cn (with [AT] replaced by @).
+Should you have any questions, please contact Darío Garigliotti at dario.garigliotti[AT]uis.no (with [AT] replaced by @).
