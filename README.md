@@ -2,7 +2,7 @@
 
 This repository provides resources developed within the following paper:
 
-> H. Ding, S. Zhang, D. Garigliotti, and K. Balog. Generating High-Quality Query Suggestion Candidates for Task-Based Search. In: Advances in Information Retrieval - Proceedings of the 40th European Conference on IR Research (ECIR'18), pp. 625-631. Springer. Grenoble, France. March 2018. [DOI: 10.1007/978-3-319-76941-7_54](https://link.springer.com/chapter/10.1007/978-3-319-76941-7_54)
+> H. Ding, S. Zhang, D. Garigliotti, and K. Balog. Generating High-Quality Query Suggestion Candidates for Task-Based Search. In: Advances in Information Retrieval - Proceedings of the 40th European Conference on IR Research (ECIR'18). Springer. Grenoble, France. March 2018. [DOI: 10.1007/978-3-319-76941-7_54](https://link.springer.com/chapter/10.1007/978-3-319-76941-7_54)
 
 **You can get the author version of the article [here](https://arxiv.org/abs/1802.07997).**
 
